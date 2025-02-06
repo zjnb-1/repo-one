@@ -1,0 +1,37 @@
+<html>
+ <head>
+ <title></title>
+   <style type="text/css">
+   div{
+       width:400px;
+	   height:600px;
+	   border:1px solid red;
+	   background-image:url(xuexiao 1.png);
+	   background-repeat;
+	   background-size: contain;
+   }
+   </style>
+ </head>
+<body>
+	 <li><a href="jiaxiang.html">我的介绍</a></li>
+     <li><a href="jieshao.html"><b>我的学校</b></a></li>  
+     <li><a href="xuexiao.html">我的家乡</a></li>
+<p><img src="C:\Users\0\Documents\金的网页\image/xuexiao.JFIF" width="500" height="300" />
+</p>
+<p>　东华理工大学于1956年由原中国核工业部创办，1999年国家军工院校管理体制改革后，由国家工业与信息化部、国家国防科技工业局、中国核工业集团公司与江西省人民政府共建，是一所具有地学和核科学特色，以理工为主的多学科性综合大学。
+</p>
+<p><img src="C:\Users\0\Documents\金的网页\image/xuexiao2.png" width="500" height="300" />
+</p>
+<p>学院拥有一支高素质、高水平的师资队伍，主要教师来源于校本部，任课教师493名，其中教授、副教授120名。现拥有各类实验室92个，工程训练中心1个，校外实习基地39个,配置有完备的专业仪器设备。学院图书馆藏书资料丰富，拥有纸质图书70余万册，电子图书150万册，各类电子文献数据库16个。花园式校园拥有实验大楼、室内体育馆、校园网等各项配套学习设施
+</p>
+
+<p><img src="C:\Users\0\Documents\金的网页\image/xuexiao3.JPEG" width="500" height="300" />
+</p>
+<p>
+学校着力探索人才培养新模式，坚持“三基并重、全面发展”“文理交融、理工互通、寓教于研”“通识教育与专业教育相结合”，着力培养具有社会责任感，富于人文情怀、科学精神和国际视野，服务国家和区域经济社会发展的各行各业的高素质创新人才。
+</p>
+</body>
+</html>
+
+	
+
